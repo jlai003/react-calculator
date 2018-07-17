@@ -1,8 +1,8 @@
-## Learning React and Redux: decoupling with stateless components
+Learning React and Redux: decoupling with stateless components
 
 Adapted from [Learning React and Redux: decoupling with stateless components](https://www.udemy.com/course/1326760/)  
 by [Mateusz Grzesiukiewicz](https://www.linkedin.com/in/mateusz-grzesiukiewicz-8556a030/)
-## Shows how to...
+Shows how to...
 - Create reusable **stateless** and easily testable components
 - Create pure & easily testable action handlers (**reducers**)
 - Connect stateless views with stateless reducers through **React containers**
